@@ -1,0 +1,5 @@
+PySimpleGUI
+requests
+pillow
+tls-client
+typing-extensions
